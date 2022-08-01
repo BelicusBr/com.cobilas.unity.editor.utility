@@ -1,6 +1,6 @@
 {
   "name": "com.cobilas.unity.editor.utility",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "displayName": "Cobilas Editor Utility",
   "description": "Utilitarios para o editor",
   "licensesUrl": "https://github.com/BelicusBr/com.cobilas.unity.editor.utility/blob/main/LICENSE.md",
@@ -19,6 +19,6 @@
   },
   
   "relatedPackages": {
-    "com.cobilas.unity.editor.utility": "1.0.6"
+    "com.cobilas.unity.editor.utility": "1.0.7"
   }
 }

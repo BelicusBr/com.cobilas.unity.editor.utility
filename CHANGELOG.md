@@ -1,4 +1,9 @@
 # Changelog
+## [1.0.7] 31/07/2022
+- Fix CHANGELOG.md
+- Fix package.json
+- Add Cobilas Editor Utility.asset
+- Remove Editor\DependencyWarning.cs
 ## [1.0.6] 23/07/2022
 - Fix CHANGELOG.md
 - Fix package.json
