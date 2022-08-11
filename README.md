@@ -1,4 +1,4 @@
 # com.cobilas.unity.editor.utility
-- discontinued project
-- projeto descontinuado
-- Utilitarios para o editor
+discontinued project<br/>
+projeto descontinuado<br/>
+Utilitarios para o editor<br/>
